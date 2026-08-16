@@ -1,0 +1,6 @@
+{
+  "name": "Crypt Rider Pro - Total Battle Helper (1360x768)",
+  "description": "Advanced Crypt Rider automation bot & exploration companion calibrated specifically for 1360x768 resolution monitors with multi-captain management, rare crypt filters, live map radar, and script generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
